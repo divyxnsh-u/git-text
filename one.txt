@@ -1,0 +1,4 @@
+this is a text
+add second line ok
+git git git
+add another line
